@@ -179,6 +179,3 @@ Open the notebook in Google Colab, update the dataset path, and execute the cell
 
 **Padmesh B**
 
-B.Tech Computer Science and Engineering
-
-SRM Institute of Science and Technology
